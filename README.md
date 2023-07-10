@@ -1,4 +1,5 @@
 ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown
+Authors: Scanlon, M., Breitinger, F., Hargreaves, C., Hilgert, J-N., Sheppard, J.
 ===
 
 ## Table of Contents
