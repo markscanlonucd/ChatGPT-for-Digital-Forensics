@@ -31,9 +31,8 @@ The corresponding experiments conducted for each topic are in their associated f
 
 ## How to cite this work
 
-:::info
-Scanlon, M., Breitinger, F., Hargreaves, C., Hilgert, J-N., Sheppard, J., ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown, Forensic Science International: Digital Investigation, ISSN 2666-2825, 2023.
-:::
+> Scanlon, M., Breitinger, F., Hargreaves, C., Hilgert, J-N., Sheppard, J., ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown, Forensic Science International: Digital Investigation, ISSN 2666-2825, 2023.
+
 
 **BibTeX:**
 ```BibTeX
