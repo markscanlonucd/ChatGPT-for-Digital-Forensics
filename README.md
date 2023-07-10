@@ -1,8 +1,4 @@
 ---
-title: 'ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown'
----
-<!--This is a comment-->
-
 ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown
 ===
 
