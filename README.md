@@ -1,11 +1,10 @@
 ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown
-
 ===
+Accompanying repository of ChatGPT (GPT-4) interestions associated with the above paper to be published at the Digital Forensics Research Conference (DFRWS APAC), held in Singapore on 17-20 October 2023.
 
 Authors: Mark Scanlon, Frank Breitinger, Christopher Hargreaves, Jan-Niclas Hilgert, and John Sheppard
 
 ## Table of Contents
-
 * [Introduction](#Introduction)
 * [Paper Abstract](#Paper-Abstract)
 * [Topics](#Topics)
