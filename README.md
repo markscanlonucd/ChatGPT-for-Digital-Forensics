@@ -41,7 +41,7 @@ The corresponding experiments conducted for each topic are in their associated f
 **BibTeX:**
 ```BibTeX
 @article{scanlon2023ChatGPTForDigitalForensics,
-	author={Scanlon, Mark and Breitinger, Frank and Hargreaves, Chris and Geradts, Zeno},
+	author={Scanlon, Mark and Breitinger, Frank and Hargreaves, Chris and Hilgert, Jan-Niclas and Sheppard, John},
 	title="{ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown}",
 	journal="{Forensic Science International: Digital Investigation}",
 	year=2023,
