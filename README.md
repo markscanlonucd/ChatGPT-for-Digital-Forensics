@@ -3,7 +3,10 @@ ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown
 
 ## Table of Contents
 
-[TOC]
+* [Introduction](#Introduction)
+* [Paper Abstract](#Paper-Abstract)
+* [Topics](#Topics)
+* [How to cite this work](https://hackmd.io/sJZCF5E6T_KvVMctkgEShA#How-to-cite-this-work)
 
 ## Introduction
 
