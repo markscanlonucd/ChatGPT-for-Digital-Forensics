@@ -14,7 +14,7 @@ Authors: Mark Scanlon, Frank Breitinger, Christopher Hargreaves, Jan-Niclas Hilg
 
 This repository provides a set of examples that demonstrate the potential risks and benefits of ChatGPT in the field of digital forensics. 
 
-The examples were created for a paper accepted at [DFRWS APAC 2023](https://dfrws.org/conferences/dfrws-apac-2023/) and will be published in the journal [Forensic Science International: Digital Investigation](https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation). See below for information on how to cite.
+The examples were created for a paper accepted at [DFRWS APAC 2023](https://dfrws.org/conferences/dfrws-apac-2023/) and will be published in the journal [Forensic Science International: Digital Investigation](https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation). You can access a preprint of the paper [here](https://github.com/markscanlonucd/ChatGPT-for-Digital-Forensics/blob/main/paper_preprint.pdf). See below for information on how to cite.
 
 ## Paper Abstract
 
