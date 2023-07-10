@@ -40,7 +40,7 @@ Scanlon, M., Breitinger, F., Hargreaves, C., Hilgert, J-N., Sheppard, J., ChatGP
 :::
 
 **BibTeX:**
-```
+```BibTeX
 @article{scanlon2023ChatGPT,
 	author={Scanlon, Mark and Breitinger, Frank and Hargreaves, Chris and Geradts, Zeno},
 	title="{ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown}",
