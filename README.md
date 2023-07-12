@@ -58,5 +58,5 @@ The corresponding experiments conducted for each topic are in their associated f
 ```
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/markscanlonucd/ChatGPT-for-Digital-Forensics)](https://badges.pufler.dev)
+[![Hits](https://hits.sh/github.com/markscanlonucd/ChatGPT-for-Digital-Forensics.svg)](https://hits.sh/github.com/markscanlonucd/ChatGPT-for-Digital-Forensics)
 
